@@ -1,13 +1,13 @@
 # <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='200px' />
 
-**i, I'm a frontend-developer!**
+i, I'm a frontend-developer!
 
 **My technology stack:**
 * HTML/CSS
 * JavaScript
 * Bootstrap
 
-📫 [telegram](https://t.me/dmitry_barabanov), [мой сайт-портфолио](https://dmitry-barabanov.github.io/cv)
+📫 [telegram](https://t.me/dmitry_barabanov), [cv](https://dmitry-barabanov.github.io/cv)
 
 <!--
 **dmitry-barabanov/dmitry-barabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
