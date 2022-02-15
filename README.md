@@ -5,7 +5,7 @@
 * JavaScript
 * Bootstrap
 
-📫 Contact:[telegram](https://t.me/dmitry_barabanov)
+📫 Contact with me: [telegram](https://t.me/dmitry_barabanov)
 
 <!--
 **dmitry-barabanov/dmitry-barabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
