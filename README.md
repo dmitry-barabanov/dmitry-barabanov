@@ -1,4 +1,4 @@
-# I'm a frontend-developer! <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='50px' />
+# I'm a frontend-developer!
 
 **My technology stack:**
 * HTML/CSS
@@ -6,6 +6,8 @@
 * Bootstrap
 
 📫 Contact with me: [telegram](https://t.me/dmitry_barabanov)
+
+# <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='50px' />
 
 <!--
 **dmitry-barabanov/dmitry-barabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
