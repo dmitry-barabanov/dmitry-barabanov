@@ -1,4 +1,6 @@
-# i, I'm a frontend-developer! <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='200px' />
+# <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='200px' />
+
+**i, I'm a frontend-developer!**
 
 **My technology stack:**
 * HTML/CSS
