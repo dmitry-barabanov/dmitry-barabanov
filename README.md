@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://giphy.com/stickers/DeInternetJongens-apeldoorn-dij-de-internet-jongens-j78oE4fghu7RpjnyyX" width='25px';>
+# Здравствуй! <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fnhpe1roegoeuxh700kcmnvyqxovcnpl4facstbm&rid=giphy.gif&ct=g" width='25px';>
 
 ### Меня зовут Дмитрий, и я фронтенд-разработчик
 
