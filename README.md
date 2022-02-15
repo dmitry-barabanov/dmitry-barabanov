@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='200px' float='right' />
+# Здравствуй! <img src="https://c.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" width='200px' />
 
 ### Меня зовут Дмитрий, и я фронтенд-разработчик
 
