@@ -1,4 +1,13 @@
-### Hi there 👋
+# Здравствуй! <img src="https://giphy.com/stickers/DeInternetJongens-apeldoorn-dij-de-internet-jongens-j78oE4fghu7RpjnyyX">
+
+### Меня зовут Дмитрий, и я фронтенд-разработчик
+
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* Bootstrap
+
+📫 Связаться со мной: [telegram](https://t.me/dmitry_barabanov), [мой сайт-портфолио](https://dmitry-barabanov.github.io/cv)
 
 <!--
 **dmitry-barabanov/dmitry-barabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
