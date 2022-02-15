@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://i.gifer.com/XVZN.gif" width='25px';>
+# Здравствуй! <img src="https://i.gifer.com/XVZN.gif" width='25px' />
 
 ### Меня зовут Дмитрий, и я фронтенд-разработчик
 
