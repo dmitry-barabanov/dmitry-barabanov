@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://i.gifer.com/XVZN.gif" width='60px' />
+# Здравствуй! <iframe src="https://giphy.com/embed/H7BzNUDldcrMi6hb6J" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bentobox-bentoboxpro-eltonto-H7BzNUDldcrMi6hb6J">via GIPHY</a></p>
 
 ### Меня зовут Дмитрий, и я фронтенд-разработчик
 
