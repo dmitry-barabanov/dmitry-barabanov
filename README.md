@@ -2,8 +2,9 @@
 
 **My technology stack:**
 * HTML/CSS
-* JavaScript
 * Bootstrap
+* JavaScript
+* React
 
 📫 Contact with me: [telegram](https://t.me/dmitry_barabanov)
 
