@@ -1,4 +1,4 @@
-# I'm a frontend-developer!
+# I'm a frontend developer!
 
 | Technology stack | Skills |
 | ------------- | ------------- |
