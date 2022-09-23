@@ -1,18 +1,8 @@
 # I'm a frontend-developer!
 
-**Skills:**
-* HTML/CSS
-* Bootstrap
-* jQuery
-* JavaScript
-* React
-* RESTful Services/APIs
-* Responsive/Mobile Design
-* Cross-Browser Development
-* Git/Version Control
-* Problem Solving
+**Skills**
 
-| First Header  | Second Header |
+| Skills |
 | ------------- | ------------- |
 | HTML/CSS  | RESTful Services/APIs  |
 | Bootstrap  | Responsive/Mobile Design  |
