@@ -3,12 +3,15 @@
 **Skills:**
 * HTML/CSS
 * Bootstrap
+* jQuery
 * JavaScript
 * React
 * RESTful Services/APIs
 * Responsive/Mobile Design
 * Cross-Browser Development
-* Git
+* Git/Version Control
+* Problem Solving
+
 
 
 
