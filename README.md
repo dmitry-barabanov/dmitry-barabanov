@@ -1,14 +1,14 @@
 # I'm a frontend-developer!
 
 **Skills:**
-* HTML/CSS
-* Bootstrap
-* JavaScript
-* React
-* RESTful Services/APIs
+* HTML/CSS     * RESTful Services/APIs
 * Responsive/Mobile Design
 * Cross-Browser Development
 * Git
+* Bootstrap
+* JavaScript
+* React
+
 
 
 📫 Contact with me: [telegram](https://t.me/dmitry_barabanov)
