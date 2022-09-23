@@ -1,6 +1,6 @@
 # I'm a frontend-developer!
 
-| Stack  | Skills |
+| Technology stack  | Skills |
 | ------------- | ------------- |
 | HTML/CSS  | RESTful Services/APIs  |
 | Bootstrap  | Responsive/Mobile Design  |
