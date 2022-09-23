@@ -2,8 +2,7 @@
 
 **Skills**
 
-| Skills |
-| ------------- | ------------- |
+| ------------- Skills ------------- |
 | HTML/CSS  | RESTful Services/APIs  |
 | Bootstrap  | Responsive/Mobile Design  |
 | jQuery  | Cross-Browser Development |
