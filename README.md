@@ -1,13 +1,14 @@
 # I'm a frontend-developer!
 
 **Skills:**
-* HTML/CSS     * RESTful Services/APIs
-* Responsive/Mobile Design
-* Cross-Browser Development
-* Git
+* HTML/CSS
 * Bootstrap
 * JavaScript
 * React
+* RESTful Services/APIs
+* Responsive/Mobile Design
+* Cross-Browser Development
+* Git
 
 
 
