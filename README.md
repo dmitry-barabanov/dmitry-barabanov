@@ -12,6 +12,13 @@
 * Git/Version Control
 * Problem Solving
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| HTML/CSS  | RESTful Services/APIs  |
+| Bootstrap  | Responsive/Mobile Design  |
+| jQuery  | Cross-Browser Development |
+| JavaScript | Git/Version Control  |
+| React  | Problem Solving  |
 
 
 
