@@ -1,7 +1,7 @@
 # I'm a frontend-developer!
 
-**Skills**
-
+| Stack  | Skills |
+| ------------- | ------------- |
 | HTML/CSS  | RESTful Services/APIs  |
 | Bootstrap  | Responsive/Mobile Design  |
 | jQuery  | Cross-Browser Development |
